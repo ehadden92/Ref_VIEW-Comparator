@@ -15,7 +15,7 @@ Get the latest release here:
 - If Windows shows “unrecognized app”, click **More info → Run anyway**
 
 ### macOS
-- A macOS `.app` build will be provided in a future release.
+- A macOS `.app` build has also been provided.
 
 ## License / Terms
 The download ZIP contains **EULA.txt**.  
