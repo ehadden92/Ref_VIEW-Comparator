@@ -1,0 +1,15 @@
+Ref_VIEW Comparator - End-User License Agreement (EULA)
+Copyright (c) 2025 Elhoucine Hadden. All rights reserved.
+
+1) License Grant: free personal/academic use.
+2) Restrictions: no redistribution, no reverse engineering, no commercial use, no modifications.
+3) Ownership: licensed, not sold.
+4) No Warranty: provided "AS IS".
+5) Third-Party: see THIRD_PARTY_NOTICES.md.
+6) Updates/Termination: license may change; stop use if violated.
+
+Use of this software application must be duly acknowledged in any published work.
+
+By using the Software you accept these terms.
+
+Contact: elhoucine.hadden@physics.uu.se
